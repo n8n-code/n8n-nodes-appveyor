@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-appveyor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AppVeyor is a hosted CI service running on Microsoft.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-appveyor",
